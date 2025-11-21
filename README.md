@@ -38,3 +38,7 @@
 
 </body>
 </html>
+git checkout main
+git merge feature-style
+git add index.html
+git commit -m "Resolved merge conflict"
